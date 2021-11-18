@@ -9,7 +9,7 @@ Pour utiliser l'index.html
 
 <h1>Projets : JavaScript - Exercices basiques<h1>
 
-
+<h4>
 1. Introduction
    Dans ce projet, nous allons te faire pratiquer JavaScript pour que tu maîtrises la syntaxe de base du langage. Ce projet contiendra essentiellement des déclarations de variables, boucles et autres joyeusetés présentées dans la ressource du jour. Le but est de maitriser les bases avant de t'apprendre comment animer ton site en JS. On va commencer léger et tu auras juste à créer une page index.html qui appellera le fichier script.js contenant ton code de la journée.
 
