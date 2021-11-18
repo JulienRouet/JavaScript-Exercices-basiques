@@ -1,3 +1,8 @@
+Pour utiliser l'index.html
+==> Lancer la console via le navigateur
+==> Puis dans le fichier index.html désactiver le script en commentaire que vous voulez tester, seulement un seul par un.
+==> Puis actualisez votre pages html sur votre navigateur avec votre console et le tour et jouer :)
+
 Projets : JavaScript - Exercices basiques
 
 1. Introduction
