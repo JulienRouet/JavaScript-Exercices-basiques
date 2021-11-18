@@ -7,7 +7,7 @@ Pour utiliser l'index.html
 ==> Puis actualisez votre pages html sur votre navigateur avec votre console et le tour et jouer :)
 
 
-<strong>Projets : JavaScript - Exercices basiques<strong>
+<h1>Projets : JavaScript - Exercices basiques<h1>
 
 
 1. Introduction
