@@ -1,6 +1,9 @@
 Pour utiliser l'index.html
+<br/><br/>
 ==> Lancer la console via le navigateur
+<br/><br/>
 ==> Puis dans le fichier index.html désactiver le script en commentaire que vous voulez tester, seulement un seul par un.
+<br/><br/>
 ==> Puis actualisez votre pages html sur votre navigateur avec votre console et le tour et jouer :)
 
 Projets : JavaScript - Exercices basiques
