@@ -6,7 +6,9 @@ Pour utiliser l'index.html
 <br/><br/>
 ==> Puis actualisez votre pages html sur votre navigateur avec votre console et le tour et jouer :)
 
-Projets : JavaScript - Exercices basiques
+
+Projets : JavaScript - Exercices basiques<strong>
+
 
 1. Introduction
    Dans ce projet, nous allons te faire pratiquer JavaScript pour que tu maîtrises la syntaxe de base du langage. Ce projet contiendra essentiellement des déclarations de variables, boucles et autres joyeusetés présentées dans la ressource du jour. Le but est de maitriser les bases avant de t'apprendre comment animer ton site en JS. On va commencer léger et tu auras juste à créer une page index.html qui appellera le fichier script.js contenant ton code de la journée.
