@@ -23,10 +23,12 @@ Qui dit nouveau langage dit "Hello world"
 Créé un script script_1.js qui affichera "Bonjour, monde !" dans la console. Voici les lignes que tu dois voir dans ta console :
 
 "Bonjour monde"
+<br/><br/>
 2.1.2. Salut
 Customise le script script_1.js qui te demandera ton prénom avec un prompt. Tu stockeras cette entrée dans une variable et tu afficheras : "Bonjour, prénom !" dans la console.
 
 2.2. Opérations & boucles
+<br/><br/>
 2.2.1 Calculs rapides
 Créé un script script_2.js qui définira la fonction factorielle et qui calculera la factorielle du nombre entré par l'utilisateur. Petit exemple rapide : factorielle(5) = 5*4*3*2*1 et factorielle(10) = 10*9*8*7*6*5*4*3*2\*1
 
